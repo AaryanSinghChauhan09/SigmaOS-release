@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-release"
-description = "Changelogs, migration notes, release manifests"
+description = "test"
 version = "0.1.0"
 tier = 5
 
